@@ -12,7 +12,7 @@ class GetRequester
   
   end
 
-  def parse_json
+  def parse_json #returns array or hash
   
   end
 
