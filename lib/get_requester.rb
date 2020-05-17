@@ -4,7 +4,9 @@ require 'net/http'
 
 
 class GetRequester
-
+  
+  def initialize(url)
+  end
 
 
 
