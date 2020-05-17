@@ -2,6 +2,7 @@
 require 'open-uri'
 require 'net/http'
 require 'json'
+require 'pry'
 
 class GetRequester
   
