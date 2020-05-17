@@ -17,7 +17,7 @@ class GetRequester
   end
 
   def parse_json #returns array or hash
-  
+    parsed = JSON.parse.get_response_body
   end
 
 
